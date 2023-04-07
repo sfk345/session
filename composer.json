@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "sfk345\\Session\\": "src/"
+            "Session\\": "src/"
         },
         "files": [
             "src/helpers.php"
